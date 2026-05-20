@@ -1,0 +1,78 @@
+# Dependencies
+node_modules/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE / local machine state
+.idea/
+.cursor/
+.vscode/
+android/local.properties
+android/.gradle/
+android/.kotlin/
+
+# Xcode user data
+*.xcuserdatad/
+**/xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Xcode build
+DerivedData/
+build/
+*.ipa
+
+# iOS app (excluded from this branch)
+CodexMobile/*
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.p12
+*.key
+*.cer
+android/supabase/.temp/
+supabase/.temp/
+.cocoindex_code/
+upload-keystore.jks
+CodexMobile/BuildSupport/PrivateOverrides.xcconfig
+phodex-bridge/src/private-defaults.json
+security_best_practices_report.md
+
+# Build artifacts
+*.swp
+*.swo
+*~
+*.rej
+*.class
+tmp/
+output/
+
+# Minified JS bundles (not part of this project)
+/main.js
+/links-*.js
+/scheme-*.js
+/initial-route-atom-*.js
+/use-navigate-to-local-conversation-*.js
+
+# Temp files
+$TMP_PLACEHOLDER
+
+# Claude project config (local only)
+.claude/
+
+# Tauri logs
+remodex-host/src-tauri/target/
+remodex-host/src-tauri/*.log
+remodex-host/src-tauri/**/*.log
+
+# useless files
+deeplinks-D8FzxbSB.js
+desktop-tauri-roadmap.md
+IOS_UPSTREAM_DELTA_7C82966.md
+IOS_UPSTREAM_DELTA_C3A1C14.md
+main-Bw7nouYH.js
+piano.md
+prd.md
