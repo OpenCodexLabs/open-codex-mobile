@@ -42,6 +42,13 @@
 >
 > **给开发者** -> 核心链路是 `Codex session files -> bridge -> encrypted relay channel -> Android UI -> turn/start back to Codex`。🧩
 
+## 截图
+
+<p align="center">
+  <img src="Docs/assets/screenshots/open-codex-mobile-session-list.png" width="260" alt="Open Codex Mobile session list">
+  <img src="Docs/assets/screenshots/open-codex-mobile-thread-detail.png" width="260" alt="Open Codex Mobile thread detail">
+</p>
+
 ## 功能
 
 - 🪞 **移动端 session mirror**：读取本地 Codex session 列表，打开对话，并展示 conversation history。

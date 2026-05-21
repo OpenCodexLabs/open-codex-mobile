@@ -42,6 +42,13 @@
 >
 > **For builders** -> the product loop is `Codex session files -> bridge -> encrypted relay channel -> Android UI -> turn/start back to Codex`. 🧩
 
+## Screenshots
+
+<p align="center">
+  <img src="Docs/assets/screenshots/open-codex-mobile-session-list.png" width="260" alt="Open Codex Mobile session list">
+  <img src="Docs/assets/screenshots/open-codex-mobile-thread-detail.png" width="260" alt="Open Codex Mobile thread detail">
+</p>
+
 ## Features
 
 - 🪞 **Mobile session mirror**: list local Codex sessions, open conversations, and hydrate recent history from local JSONL when `thread/read` is slow or incomplete.
