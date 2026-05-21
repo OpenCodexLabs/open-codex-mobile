@@ -1,7 +1,7 @@
 # Open Codex Mobile
 
 <p align="center">
-  <img src="assets/open-codex-mobile-og.svg" alt="Open Codex Mobile cover" width="780">
+  <img src="assets/open-codex-mobile-og.png" alt="Open Codex Mobile cover" width="780">
 </p>
 
 <p align="center">
