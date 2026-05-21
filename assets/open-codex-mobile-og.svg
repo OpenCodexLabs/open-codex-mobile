@@ -1,0 +1,25 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" rx="42" fill="#F7F4EE"/>
+  <circle cx="1028" cy="92" r="210" fill="#D7F7E8"/>
+  <circle cx="142" cy="534" r="240" fill="#E7EEF9"/>
+  <path d="M78 116C78 75.13 111.13 42 152 42H1048C1088.87 42 1122 75.13 1122 116V514C1122 554.87 1088.87 588 1048 588H152C111.13 588 78 554.87 78 514V116Z" fill="white" stroke="#171717" stroke-width="2"/>
+  <path d="M233 140H434C456.091 140 474 157.909 474 180V450C474 472.091 456.091 490 434 490H233C210.909 490 193 472.091 193 450V180C193 157.909 210.909 140 233 140Z" fill="#111827"/>
+  <path d="M238 165H429C439.493 165 448 173.507 448 184V445C448 455.493 439.493 464 429 464H238C227.507 464 219 455.493 219 445V184C219 173.507 227.507 165 238 165Z" fill="#FAFAF7"/>
+  <rect x="246" y="205" width="150" height="18" rx="9" fill="#111827"/>
+  <rect x="246" y="244" width="174" height="12" rx="6" fill="#D1D5DB"/>
+  <rect x="246" y="274" width="118" height="12" rx="6" fill="#D1D5DB"/>
+  <rect x="246" y="322" width="154" height="44" rx="14" fill="#E7EEF9"/>
+  <rect x="246" y="382" width="138" height="44" rx="14" fill="#D7F7E8"/>
+  <circle cx="334" cy="432" r="9" fill="#111827"/>
+  <path d="M574 207H878" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <path d="M574 258H775" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <path d="M574 309H850" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <path d="M574 360H724" stroke="#111827" stroke-width="3" stroke-linecap="round"/>
+  <rect x="570" y="419" width="368" height="72" rx="24" fill="#111827"/>
+  <path d="M474 315H538" stroke="#111827" stroke-width="4" stroke-linecap="round"/>
+  <path d="M525 296L546 315L525 334" stroke="#111827" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="570" y="139" fill="#111827" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="800">Open Codex Mobile</text>
+  <text x="570" y="178" fill="#4B5563" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">Android-first control layer for local Codex sessions</text>
+  <text x="612" y="462" fill="#F7F4EE" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="21" font-weight="600">phone -&gt; bridge -&gt; codex app-server</text>
+  <text x="193" y="529" fill="#4B5563" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="600">OpenCodexLabs</text>
+</svg>
