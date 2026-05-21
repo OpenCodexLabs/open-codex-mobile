@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🤖 Android App • 🖥️ 本地 Mac Bridge • 🔐 Relay 配对 • 🪞 Session Mirror
+  🤖 <strong>Android App</strong> • 🖥️ 本地 Mac Bridge • 🔐 Relay 配对 • 🪞 Session Mirror
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 
 ## Android 范围
 
-Open Codex Mobile 当前是 Android-oriented release。🤖 这个仓库里的主要客户端是 `android/` 下的 Kotlin/Compose 原生 Android App；desktop、bridge、shared、relay 等模块主要是为了支撑 Android 远程控制本地 Codex session 的工作流。
+Open Codex Mobile 当前是 **Android-oriented release**。🤖 这个仓库里的主要客户端是 `android/` 下的 Kotlin/Compose 原生 **Android App**；desktop、bridge、shared、relay 等模块主要是为了支撑 **Android** 远程控制本地 Codex session 的工作流。
 
 ## 安全边界
 
@@ -134,14 +134,14 @@ Docs/           设计和实现记录
 
 ## 致谢
 
-🙏 Open Codex Mobile 基于 Remodex 的 mobile/bridge 工作继续改造。感谢 Remodex 作者和贡献者提供最初的 Android 客户端、bridge、relay，以及“手机控制本地 Codex session”的产品和技术思路。
+🙏 Open Codex Mobile 基于 [Remodex](https://github.com/Stivy-01/remodex) 的 mobile/bridge 工作继续改造。感谢 [Remodex](https://github.com/Stivy-01/remodex) 作者和贡献者提供最初的 **Android** 客户端、bridge、relay，以及“手机控制本地 Codex session”的产品和技术思路。
 
-这个仓库是 OpenCodexLabs 的 Android-first 适配版本：重点放在 Android 开源发布、OpenCodexLabs 品牌、以及更贴近 Android 手机远程控制本地 Codex session 的使用流。
+这个仓库是 OpenCodexLabs 的 **Android-first** 适配版本：重点放在 **Android** 开源发布、OpenCodexLabs 品牌、以及更贴近 **Android 手机**远程控制本地 Codex session 的使用流。
 
 ## 相关
 
-- 🙏 基于 Remodex mobile/bridge 架构继续实验。
-- 🤖 OpenCodexLabs 专门适配 Android 版的“手机控制本地 Codex session”开源探索。
+- 🙏 基于 [Remodex](https://github.com/Stivy-01/remodex) mobile/bridge 架构继续实验。
+- 🤖 OpenCodexLabs 专门适配 **Android** 版的“手机控制本地 Codex session”开源探索。
 
 ## License
 

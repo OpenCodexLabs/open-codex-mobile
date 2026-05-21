@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🤖 Android App • 🖥️ Local Mac Bridge • 🔐 Relay Pairing • 🪞 Session Mirror
+  🤖 <strong>Android App</strong> • 🖥️ Local Mac Bridge • 🔐 Relay Pairing • 🪞 Session Mirror
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 ## Android Scope
 
-Open Codex Mobile is currently an Android-oriented release. 🤖 The primary client in this repository is the native Kotlin/Compose Android app under `android/`; other desktop, bridge, shared, and relay pieces exist to support that Android workflow.
+Open Codex Mobile is currently an **Android-oriented release**. 🤖 The primary client in this repository is the native Kotlin/Compose **Android app** under `android/`; other desktop, bridge, shared, and relay pieces exist to support that **Android workflow**.
 
 ## Safety Model
 
@@ -133,14 +133,14 @@ Docs/           Design notes and implementation recaps
 
 ## Acknowledgements
 
-🙏 Open Codex Mobile is based on the Remodex mobile/bridge work. Thanks to the Remodex authors and contributors for the original Android client, bridge, relay, and mobile Codex control ideas.
+🙏 Open Codex Mobile is based on the [Remodex](https://github.com/Stivy-01/remodex) mobile/bridge work. Thanks to the [Remodex](https://github.com/Stivy-01/remodex) authors and contributors for the original **Android** client, bridge, relay, and mobile Codex control ideas.
 
-This repository is an OpenCodexLabs adaptation focused on an Android-first open-source release: clearer Android build flow, OpenCodexLabs branding, and local Codex session workflows tuned for Android phones.
+This repository is an OpenCodexLabs adaptation focused on an **Android-first** open-source release: clearer **Android** build flow, OpenCodexLabs branding, and local Codex session workflows tuned for **Android phones**.
 
 ## Related
 
-- 🙏 Derived from the Remodex mobile/bridge architecture.
-- 🤖 Adapted by OpenCodexLabs as an Android-first experiment around phone-controlled local Codex sessions.
+- 🙏 Derived from the [Remodex](https://github.com/Stivy-01/remodex) mobile/bridge architecture.
+- 🤖 Adapted by OpenCodexLabs as an **Android-first** experiment around phone-controlled local Codex sessions.
 
 ## License
 
