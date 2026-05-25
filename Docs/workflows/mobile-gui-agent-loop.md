@@ -53,7 +53,7 @@ adb exec-out cat /sdcard/window.xml > window.xml
 4. Prefer app intents for opening apps, then GUI actions for app-specific flows.
 
 ```sh
-adb shell monkey -p com.autonavi.minimap -c android.intent.category.LAUNCHER 1
+adb shell monkey -p your.map.package.name -c android.intent.category.LAUNCHER 1
 ```
 
 5. Use screenshots after each major action.
@@ -68,7 +68,7 @@ adb exec-out screencap -p > step.png
 
 ```text
 Use the connected Android phone through USB ADB.
-Open Amap.
+Open the target map app.
 Search for [destination].
 Read the route or ride estimate from the app.
 Do not place an order, pay, call, or change settings.
@@ -80,4 +80,3 @@ Return the result with screenshot evidence.
 - Coordinate taps are acceptable for experiments, but UI tree text should be used whenever possible.
 - Chinese text input through plain `adb shell input text` is unreliable on many Android builds. Prefer app URI schemes, visible search suggestions, or a dedicated ADB keyboard for repeated workflows.
 - If the app shows a pending payment or historical order, stop unless the user explicitly asks to handle it.
-
