@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="README.md">English</a> •
+  <a href="#最新动态">最新动态</a> •
   <a href="#快速导航">快速导航</a> •
   <a href="#功能">功能</a> •
   <a href="#工作流">工作流</a> •
@@ -34,6 +35,10 @@
 > 📱 手机只是控制端。🖥️ 真正执行任务的仍然是你的 Mac。Bridge 会连接本地 `codex app-server`，同步本地 Codex thread，并把手机上的输入转发回桌面 Codex runtime。
 >
 > 模型、provider、权限、sandbox、fast mode 是否真正生效，都由电脑端 Codex 配置决定。手机 UI 不能解锁电脑 provider 不支持的模型或加速模式。
+
+## 最新动态
+
+- **Mobile-on-Mobile Agent Loop 实验**：手机端 Codex 发起任务，电脑端 Codex 通过 USB ADB 反过来操作同一台 Android 手机 GUI。查看[实验说明](Docs/experiments/mobile-on-mobile-agent-loop.md)、[操作 workflow](Docs/workflows/mobile-gui-agent-loop.md)和[中文博文草稿](Docs/blog/mobile-on-mobile-agent-loop.zh.md)。
 
 ## 快速导航
 

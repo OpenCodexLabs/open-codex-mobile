@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="README.zh.md">中文文档</a> •
+  <a href="#news">News</a> •
   <a href="#quick-navigation">Quick Navigation</a> •
   <a href="#features">Features</a> •
   <a href="#workflow">Workflow</a> •
@@ -34,6 +35,10 @@
 > 📱 The phone is the controller. 🖥️ Your Mac remains the executor. The bridge talks to the local `codex app-server`, mirrors local Codex threads, and forwards mobile messages back to the desktop runtime.
 >
 > Model availability, provider behavior, sandbox behavior, and fast-mode behavior are still decided by your desktop Codex configuration. The mobile UI cannot unlock models or service tiers that your local provider does not support.
+
+## News
+
+- **Mobile-on-Mobile Agent Loop experiment**: a phone-side Codex session asks desktop Codex to operate the same Android phone GUI through USB ADB. See the [experiment](Docs/experiments/mobile-on-mobile-agent-loop.md), [workflow](Docs/workflows/mobile-gui-agent-loop.md), and [Chinese write-up](Docs/blog/mobile-on-mobile-agent-loop.zh.md).
 
 ## Quick Navigation
 
